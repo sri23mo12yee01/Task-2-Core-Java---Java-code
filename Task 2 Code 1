@@ -57,7 +57,7 @@ public class BasicCalculator {
   
         default:
   
-            System.out.println("You enter wrong input");
+            System.out.println("You have entered wrong input");
   
             break;
         }
